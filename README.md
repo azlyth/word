@@ -1,7 +1,5 @@
 # word
 
-## Description
-
 A command line tool to generate random words.
 
 ## Usage
